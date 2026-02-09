@@ -7,18 +7,40 @@ Focused on building **AI-powered, database-driven, and scalable web applications
 
 ## 🔧 Technical Skills  
 
-**Languages:** C, Java, Python, JavaScript  
+🔹Core Computer Science Concepts
 
-**Web & Backend:**  
-- HTML, CSS, React.js  
-- Node.js, Express.js  
-- REST APIs, Authentication  
+Data Structures & Algorithms (DSA)
+Object-Oriented Programming (OOPs)
+Software Development Life Cycle (SDLC)
+Database Management Systems (DBMS)
 
-**Databases:**  
-- MongoDB, MySQL  
+🔹 Programming Languages
 
-**Tools:**  
-- Git, GitHub, VS Code, Postman, XAMPP  
+Java
+Python
+C++
+JavaScript
+C
+
+🔹 Web Development
+
+Frontend: React.js, Angular, HTML5, CSS3
+Backend: Node.js
+Full-Stack Development with MERN stack
+
+🔹 Databases
+
+SQL
+MySQL
+PostgreSQL
+MongoDB
+
+🔹 Tools & Platforms
+
+Git & GitHub
+VS Code
+Postman
+XAMPP  
 
 ---
 

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Supriya S  
 
-🎓 **MCA Student | Full-Stack Developer | AI Systems Enthusiast**  
+       🎓 **MCA Student | Full-Stack Developer | AI Systems Enthusiast**  
 Focused on building **AI-powered, database-driven, and scalable web applications.**
 
 ---

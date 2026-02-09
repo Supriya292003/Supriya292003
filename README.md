@@ -68,4 +68,4 @@ XAMPP
 
 ## 📫 Connect with me  
 - 📧 supriyasups1234@gmail.com  
-- 🔗 GitHub: https://github.com/Supriya292003  (https://github-readme-stats.vercel.app/api?username=Supriya292003&show_icons=true&theme=dark)
+- 🔗 GitHub: https://github.com/Supriya292003

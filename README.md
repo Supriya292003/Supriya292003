@@ -9,37 +9,39 @@ Focused on building **AI-powered, database-driven, and scalable web applications
 
 🔹Core Computer Science Concepts
 
-Data Structures & Algorithms (DSA)
-Object-Oriented Programming (OOPs)
-Software Development Life Cycle (SDLC)
+Data Structures & Algorithms (DSA),
+Object-Oriented Programming (OOPs),
+Software Development Life Cycle (SDLC),
 Database Management Systems (DBMS)
 
 🔹 Programming Languages
 
-Java
-Python
-C++
-JavaScript
+Java,
+Python,
+C++,
+JavaScript,
 C
 
 🔹 Web Development
 
 Frontend: React.js, Angular, HTML5, CSS3
+
 Backend: Node.js
+
 Full-Stack Development with MERN stack
 
 🔹 Databases
 
-SQL
-MySQL
-PostgreSQL
+SQL,
+MySQL,
+PostgreSQL,
 MongoDB
 
 🔹 Tools & Platforms
 
-Git & GitHub
-VS Code
-Postman
+Git & GitHub,
+VS Code,
+Postman,
 XAMPP  
 
 ---
